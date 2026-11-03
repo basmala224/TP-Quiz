@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.QuizImages" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/primaire</item>
+        <item name="colorOnPrimary">@color/sur_primaire</item>
+        <item name="android:colorBackground">@color/fond</item>
+        <item name="android:statusBarColor">@color/fond</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <!-- Les choix restent lisibles une fois désactivés. -->
+    <style name="Widget.QuizImages.BoutonChoix" parent="Widget.Material3.Button">
+        <item name="backgroundTint">@color/choix_fond</item>
+        <item name="android:textColor">@color/choix_texte</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:layout_marginTop">8dp</item>
+    </style>
+</resources>

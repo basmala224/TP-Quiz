@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaire">#3949AB</color>
+    <color name="sur_primaire">#FFFFFF</color>
+    <color name="fond">#F7F8FC</color>
+    <color name="texte">#1C1E2B</color>
+    <color name="texte_secondaire">#4A4E63</color>
+
+    <color name="choix_desactive_fond">#E2E4EE</color>
+    <color name="choix_desactive_texte">#3C3F50</color>
+
+    <color name="juste_fond">#DDF3E0</color>
+    <color name="juste_texte">#14532D</color>
+    <color name="fausse_fond">#FBE0E0</color>
+    <color name="fausse_texte">#7F1D1D</color>
+</resources>
